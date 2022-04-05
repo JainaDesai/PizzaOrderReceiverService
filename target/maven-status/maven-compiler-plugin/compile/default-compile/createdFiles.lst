@@ -1,0 +1,6 @@
+com\serai\pizza\receive\order\model\OrderRequest.class
+com\serai\pizza\receive\order\repo\OrderRepository.class
+com\serai\pizza\receive\order\controller\OrderReceiverController.class
+com\serai\pizza\receive\order\PizzaOrderReceiverServiceApplication.class
+com\serai\pizza\receive\order\service\IOrderReceiverService.class
+com\serai\pizza\receive\order\service\OrderReceiverService.class
